@@ -130,7 +130,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## 📞 Contato
 
-Se tiver dúvidas ou sugestões, entre em contato com [seu-email@exemplo.com](mailto:).
+Se tiver dúvidas ou sugestões, entre em contato com [alsan-dev](mailto:).
 
 ---
 
